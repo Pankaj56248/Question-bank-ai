@@ -1,7 +1,7 @@
 Telegram Bot Module
-# Config Module
+# Documentation Module
 
-Stores:
-- API Keys
-- Environment Variables
-- Settings
+Contains:
+- API Docs
+- Database Docs
+- Project Guides
