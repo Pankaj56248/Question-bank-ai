@@ -4,4 +4,4 @@ Telegram Bot Module
 Stores:
 - API Keys
 - Environment Variables
-- Settings 
+- Settings
